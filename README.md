@@ -3,7 +3,7 @@
 🎓 MCA from G.L Bajaj Institute of Technology and Management (2024)  
 📍 Jalali, Aligarh, Uttar Pradesh | 📧 viksoni.565.vs@gmail.com | ☎️ +91 9068312616  
 🔗 [LinkedIn](https://www.linkedin.com/in/vikas-verma-240601257)  
-📄 [View My Resume](https://github.com/your-username/your-resume.pdf) <!-- Replace with actual link -->
+📄 [View My Resume](https://drive.google.com/file/d/1QKrN_E1MwCSN1qPANxG4gKut9PEJS4o1/view?usp=drivesdk)
 
 ---
 
@@ -56,7 +56,7 @@ A simple API-based app to display real-time weather based on user input location
 📧 **viksoni.565.vs@gmail.com**  
 📱 **+91 9068312616**  
 🔗 [LinkedIn](https://www.linkedin.com/in/vikas-verma-240601257)  
-📄 [Download Resume](https://github.com/your-username/your-resume.pdf) <!-- Replace with actual link -->
+📄 [Download Resume](https://drive.google.com/file/d/1QKrN_E1MwCSN1qPANxG4gKut9PEJS4o1/view?usp=drivesdk)
 
 
 <
