@@ -45,11 +45,18 @@ A simple API-based app to display real-time weather based on user input location
 ---
 
 ## 📜 Certifications
-- C Programming – LinkedIn  
-- C++ – SkillUp  
-- Python – Great Learning  
-- Excel Essential Training – LinkedIn
 
+- [C Programming – LinkedIn](#)  
+- [C++ – SkillUp](#)  
+- [Python – Great Learning](#)  
+- [Excel Essential Training – LinkedIn Learning](#)  
+- [AWS APAC – Solutions Architecture Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_r7Effwc25ofTwtrud_1749280228661_completion_certificate.pdf)  
+- [BCG – Data Science Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_r7Effwc25ofTwtrud_1749219409048_completion_certificate.pdf)  
+- [Deloitte Australia – Cyber Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_r7Effwc25ofTwtrud_1749283900195_completion_certificate.pdf)  
+- [Deloitte Australia – Data Analytics Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_r7Effwc25ofTwtrud_1748771712512_completion_certificate.pdf)  
+- [Deloitte Australia – Technology Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_r7Effwc25ofTwtrud_1748883819144_completion_certificate.pdf)  
+- [Quantium – Data Analytics Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_r7Effwc25ofTwtrud_1748937463892_completion_certificate.pdf)  
+- [Siemens Mobility – Project Manager Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YtWaumzWHmKiqP63y/zSefEeEKvojiQqiaH_YtWaumzWHmKiqP63y_r7Effwc25ofTwtrud_1749282710008_completion_certificate.pdf)
 ---
 
 ## 📇 Contact Me
